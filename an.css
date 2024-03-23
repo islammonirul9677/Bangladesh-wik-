@@ -1,3 +1,144 @@
 h2{
-    color: rgb(68, 48, 21);
+    color: rgb(220, 132, 17);
+}
+.test1{
+    border: 2px solid black;
+    padding: 5px 5px 10px 5px;
+    margin-bottom: 10px;
+    width: 70%;
+    box-shadow: 2px 2px 8px black;
+    
+
+}
+.test2{
+    border: 1px solid black;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    box-shadow: 6px 6px 3px inset;
+}
+.test3{
+    border: 1px solid rgb(167, 167, 37);
+    padding: 10px 10px 10px 10px;
+    text-align: justify;
+    box-sizing: border-box;
+    color: rgb(185, 115, 23);
+    width: 250px;
+    height: 250px;
+    overflow: auto;
+    background-color: rgb(211, 223, 234);
+}
+.test4{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    margin-top: 30px;
+    border-radius: 50%;
+    background-color: blanchedalmond;
+}
+.test5{
+    height: 350px;
+    width: 250px;
+    overflow: auto;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    float: left;
+    background-color: aqua;
+    color: brown;
+    text-align: justify;
+    padding: 5px;
+}
+.test6{
+    height: 350px;
+    width: 250px;
+    background-color: blueviolet;
+    border: 1px solid rebeccapurple;
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: bisque;
+    text-align: justify;
+    padding: 6px;
+}
+.test7{
+    height: 200px;
+    width: 200px;
+    border: 1px solid green;
+    background-color: orangered;
+    clear: both;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: justify;
+    padding: 8px;
+}
+.test8{
+    border: 0.5px solid black;
+    padding: 8px;
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 50px;
+    font-weight: normal;
+}
+.test9{
+    font-size: 60px;
+    color: rgb(183, 73, 73);
+    text-shadow: 2px 2px 10px rgb(22, 8, 8);
+    font-style: italic;
+}
+#b1{
+    text-decoration-line: underline;
+    text-decoration-color: brown;
+    text-decoration-style: none;
+}
+.test10{
+    width: 400px;
+    border: 0.5px solid black;
+    word-break: break-all;
+}
+.test11{
+    width: 300px;
+    border: 1px solid black;
+    white-space: normal;
+}
+.test12{
+    width: 300px;
+    border: 1px solid black;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.test13{
+    width: 300px;
+    border: 1px solid rebeccapurple;
+    border-radius: 10px;
+    writing-mode: vertical-rl;
+}
+.test14{
+    width: 800px;
+    border: 0px solid black;
+    column-count: 3;
+    column-rule-width: 1px;
+    column-rule-style: solid;
+}
+#b2{
+    
+}
+@font-face {
+    font-family: OpenSans;
+    src: url(OpenSans-Regular.ttf);
+}
+.test15{
+    font-family: OpenSans;
+}
+ul{
+    list-style-type: circle;
+}
+ol{
+    list-style-type: lower-roman;
+}
+.test16{
+    background-image: url(kLzbNh5.jpg);
 }
